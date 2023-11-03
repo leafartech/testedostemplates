@@ -18,7 +18,7 @@ export default function Page() {
   return (
     <div className="">
       <HeaderFlex />
-      <main className="pt-12 lg:px-4 xl:px-0">
+      <main className="sm:pt-12 lg:px-4 xl:px-0">
         <Section className="flex flex-col gap-6 sm:gap-24 pb-12">
           <div className="flex flex-col gap-4 sm:gap-12 sm:flex-row px-4 sm:px-0">
             <NormalCard
